@@ -26,7 +26,7 @@ This project performs:
   <img src="assets/viz.png" width="500"/>
 </p>
 
-## 📉 Loss and 📈 Accuracy Curves
+## 📉 Loss Curves
 
 <p align="center">
   <img src="assets/loss.png" width="500"/>
